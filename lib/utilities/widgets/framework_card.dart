@@ -2,6 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:luna_learning/utilities/widgets/courses_logo.dart';
 
 
 import '../styles.dart';

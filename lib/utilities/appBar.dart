@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:luna_learning/utilities/circle_painter.dart';
+import 'package:luna_learning/utilities/widgets/painters/circle_painter.dart';
 
 class CustomAppBar extends PreferredSize {
   final Widget child;
