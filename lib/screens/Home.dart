@@ -11,7 +11,7 @@ import 'package:luna_learning/utilities/widgets/comming_soon.dart';
 import 'package:luna_learning/utilities/widgets/continueWatching.dart';
 import 'package:luna_learning/utilities/widgets/courses.dart';
 import 'package:luna_learning/utilities/widgets/progress_daily.dart';
-import 'package:luna_learning/utilities/widgets/reactNative.dart';
+import 'package:luna_learning/utilities/widgets/framework_card.dart';
 import 'package:luna_learning/utilities/widgets/serach_field.dart';
 
 class LunaHome extends StatefulWidget {
