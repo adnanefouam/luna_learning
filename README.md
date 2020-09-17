@@ -2,7 +2,14 @@
 # luna_learning
 
 
-A new Flutter application.
+A Flutter UI created Using figma.
+
+![lunaFinal](https://user-images.githubusercontent.com/59290932/93463568-d7321300-f8df-11ea-9af2-a9206551d343.png)
+
+Preview courses with LongPresse.
+
+![IMG_0309](https://user-images.githubusercontent.com/59290932/93464187-adc5b700-f8e0-11ea-86c2-2b5727911fa3.jpg)
+
 
 ## Getting Started
 
